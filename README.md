@@ -17,3 +17,6 @@ Generates a scatter plot of all simulated portfolios, making it easy to see the 
 Make sure you have Python 3 installed. Then, install the necessary libraries using pip.
 
 pip install yfinance numpy pandas matplotlib
+
+
+Just a little script to put into practice modern portfolio theory
