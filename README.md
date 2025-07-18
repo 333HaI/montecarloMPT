@@ -1,7 +1,7 @@
 ## Features
 The script prompts you for the stock tickers, the number of simulations to run, and the risk-free rate.
 
-Live Data: Pulls the last five years of daily closing prices directly from Yahoo Finance.
+pulls the last five years of daily closing prices directly from Yahoo Finance.
 
 Automatically calculates :
 
